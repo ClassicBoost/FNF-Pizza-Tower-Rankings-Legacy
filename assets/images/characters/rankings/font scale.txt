@@ -1,0 +1,3 @@
+96 size for the grade text
+42 for dialogue
+The text uses Hobo.ttf (Starbound Font)

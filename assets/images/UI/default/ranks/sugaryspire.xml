@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sugarySpire.png">
+<SubTexture name="D0000" x="310" y="310" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="C0000" x="0" y="600" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="B0000" x="310" y="620" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="A0000" x="0" y="930" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="S0000" x="310" y="0" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="S+0000" x="0" y="310" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+<SubTexture name="P0000" x="0" y="0" width="310" height="310" frameX="0" frameY="0" frameWidth="300" frameHeight="300" />
+</TextureAtlas>

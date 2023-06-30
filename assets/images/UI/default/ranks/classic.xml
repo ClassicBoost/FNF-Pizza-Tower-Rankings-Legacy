@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RANKS.png">
+<SubTexture name="D0000" x="0" y="0" width="237" height="299" frameX="-43" frameY="-23" frameWidth="300" frameHeight="300" />
+<SubTexture name="C0000" x="232" y="299" width="205" height="298" frameX="-40" frameY="-20" frameWidth="300" frameHeight="300" />
+<SubTexture name="B0000" x="0" y="299" width="232" height="310" frameX="-42" frameY="-13" frameWidth="300" frameHeight="300" />
+<SubTexture name="A0000" x="237" y="0" width="273" height="299" frameX="-50" frameY="-14" frameWidth="300" frameHeight="300" />
+<SubTexture name="S0000" x="0" y="609" width="194" height="271" frameX="-52" frameY="-32" frameWidth="300" frameHeight="300" />
+<SubTexture name="S+0000" x="194" y="609" width="274" height="271" frameX="-52" frameY="-32" frameWidth="300" frameHeight="300" />
+<SubTexture name="P0000" x="0" y="880" width="256" height="302" frameX="-46" frameY="-12" frameWidth="300" frameHeight="300" />
+</TextureAtlas>
