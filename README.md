@@ -1,3 +1,5 @@
+New version https://github.com/ClassicBoost/FNF-Pizza-Tower-Ranks
+
 <p align="center">
   <img src="https://media.discordapp.net/attachments/916918345255751690/930068118938730526/legacy.png" width="750"/></a>
   <h1 align="center">Forever Engine Legacy</h1>
